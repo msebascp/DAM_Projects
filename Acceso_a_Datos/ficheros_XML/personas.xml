@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personas>
+	<Persona dni="303050A" nombre="Javier" apellidos="García">
+		<Direccion>Calle Mayor, 1</Direccion>
+		<Telefono>123456789</Telefono>
+	</Persona>
+	<Persona dni="303050B" nombre="María" apellidos="López">
+		<Direccion>Calle Mayor, 2</Direccion>
+		<Telefono>987654321</Telefono>
+	</Persona>
+	<Persona dni="303050C" nombre="Pedro" apellidos="González">
+		<Direccion>Calle Mayor, 3</Direccion>
+		<Telefono>123456789</Telefono>
+	</Persona>
+	<Persona dni="303050D" nombre="Ana" apellidos="Martínez">
+		<Direccion>Calle Mayor, 4</Direccion>
+		<Telefono>987654321</Telefono>
+	</Persona>
+</Personas>
