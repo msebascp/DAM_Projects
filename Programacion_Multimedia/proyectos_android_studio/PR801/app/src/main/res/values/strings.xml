@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">PR801</string>
+	<string name="API_CREDENTIALS"><![CDATA[ts=patata&apikey=6a6c73f102254216403292f530e1986e&hash=c919203fbd650a3f0dc19c356004c884]]></string>
+</resources>
